@@ -3,13 +3,11 @@
      <b>Student</b> <i>and</i> <b>Avid Physics & Photography Enjoyer</b>
     <br />
     <br />
-<!--     <a href="https://hits.seeyoufarm.com/">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWillyJL&title_bg=%232D2D2D&count_bg=%2322AA55&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
-    </a> -->s
-    <a href="https://github.com/STRRL/serverless-github-badges">
+
+<a href="#">
         <img src="https://badges.strrl.dev/years/antodellarte?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="#">
+<a href="#">
         <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
 </p>
@@ -27,6 +25,8 @@ Languages 💾
 
 [![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB     )](https://www.python.org/)
 [![Bash](      https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25      )](https://www.gnu.org/software/bash/)
+![Assembly](https://img.shields.io/badge/-Assembly-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000      )
+[![LaTEX](      https://img.shields.io/badge/-LaTEX-333333?style=for-the-badge&logo=latex&logoColor=white&labelColor=6262DD      )](https://www.latex-project.org/)
 
 
 Tools 🛠️
@@ -36,6 +36,7 @@ Tools 🛠️
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
 [![GitHub](    https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000           )](https://github.com/)
 [![Chocolatey](    https://img.shields.io/badge/-chocolatey-333333?style=for-the-badge&logo=chocolatey&logoColor=white&labelColor=22A2FF           )](https://chocolatey.org/)
+[![Overleaf](      https://img.shields.io/badge/-Overleaf-333333?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=4EAA25      )](https://it.overleaf.com/)
 
 My Specs 💻
 -----------
@@ -53,5 +54,6 @@ Get in Touch 📡
 
 
 [![Instagram](https://img.shields.io/badge/-@antodellarte-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/antodellarte/)
-[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0antodellarte%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/antodellarte)\
-[![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2Fantodellarte%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
+[![Linkedin](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0Linkedin%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=.env&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/antoniodellarte/)\
+[![GITHUB](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0antodellarte%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/antodellarte)\
+[![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2Fantodellarte%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/antodellarte)
