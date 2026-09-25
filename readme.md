@@ -16,6 +16,7 @@
 
 Projects 📦
 -----------
+- #### <a href="https://github.com/antodellarte/nl2latex-obsidian"><img align="center" src="https://img.shields.io/github/license/antodellarte/nl2latex-obsidian?label=ML2LaTeX&style=for-the-badge&labelColor=5D3FD3&color=111100"></a> :&nbsp; Motore di conversione da linguaggio naturale a LaTeX per Obsidian.
 
 - #### <a href="https://github.com/antodellarte/FcFz-DIY"><img align="center" src="https://img.shields.io/github/license/antodellarte/FcFz-DIY?label=FcFz-Diy&style=for-the-badge&labelColor=DBDBDB&color=111100"></a> :&nbsp; Custom PCB design and schematics for a DIY device compatible with Momentum Firmware.
 <br />
@@ -24,6 +25,7 @@ Languages 💾
 ------------
 
 [![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB     )](https://www.python.org/)
+[![Mathematica](https://img.shields.io/badge/-Mathematica-333333?style=for-the-badge&logo=wolfram&logoColor=white&labelColor=FF0000)](https://www.wolfram.com/mathematica/)
 [![Bash](      https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25      )](https://www.gnu.org/software/bash/)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000      )
 [![LaTEX](      https://img.shields.io/badge/-LaTEX-333333?style=for-the-badge&logo=latex&logoColor=white&labelColor=6262DD      )](https://www.latex-project.org/)
@@ -45,9 +47,9 @@ My Specs 💻
 ![CPU](https://img.shields.io/badge/-Core_i7_12700K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)
 ![GPU](https://img.shields.io/badge/-Nvidia_RTX_3080-333333?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=4eaa25)
 
-![Laptop](https://img.shields.io/badge/Samsung_Galaxy_book_4-333333?style=for-the-badge&logo=samsung&logoColor=white&labelColor=000000)
-![CPU](https://img.shields.io/badge/-i7_1355U-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)
-![GPU](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%20Integrated_GPU%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)
+![Laptop](https://img.shields.io/badge/Samsung_Galaxy_book_6_Ultra-333333?style=for-the-badge&logo=samsung&logoColor=white&labelColor=000000)
+![CPU](https://img.shields.io/badge/-Core_7_Ultra_365H-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)
+![GPU](https://img.shields.io/badge/-Nvidia_RTX_5060-333333?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=4eaa25)
 
 Get in Touch 📡
 ---------------
@@ -55,5 +57,4 @@ Get in Touch 📡
 
 [![Instagram](https://img.shields.io/badge/-@antodellarte-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/antodellarte/)
 [![Linkedin](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0Linkedin%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=.env&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/antoniodellarte/)\
-[![GITHUB](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0antodellarte%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/antodellarte)\
-[![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2Fantodellarte%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/antodellarte)
+[![GITHUB](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0antodellarte%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/antodellarte)
